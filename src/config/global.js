@@ -299,9 +299,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos ',
-          cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gomez Perez',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Centro Agroturístico- Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
@@ -337,6 +337,12 @@ export default {
         },
         {
           nombre: 'Robinson Javier Ordoñez Barreiro',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

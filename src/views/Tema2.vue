@@ -102,7 +102,7 @@
     p.mb-4 Es la operación donde intervienen más de dos cuentas. Generalmente, sucede cuando se registran compras y ventas de productos, donde se relacionan cuentas como el impuesto sobre las ventas por pagar (IVA) y retenciones en la fuente por renta, retenciones del Impuesto de Industria y Comercio (ICA) o Retenciones de IVA.
     
     .row.justify-content-center.m-0
-      .fondo-color1
+      .fondo-color1.ajuste___color_23
         h4 Ejemplo:
         p Se realiza una venta por $10.000.000 a crédito, calcular IVA del 19 %.  En esta transacción intervienen tres cuentas: ingresos por actividad ordinarias (crédito) correspondiente a los ingresos, IVA generado (débito) de los pasivos y, finalmente, la cuenta de clientes (crédito) perteneciente al activo. De acuerdo con la naturaleza de las cuentas y si se presenta un aumento o disminución, se registra la transacción mediante el asiento contable como se observa a continuación:
         .row.align-items-center.mb-2
@@ -144,7 +144,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Cuenta: concepto y clasificación
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
       .bloque-texto-g__img.ajuste___img__2
         figure
           img(src="@/assets/curso/tema2/img6.svg", alt="" style="max-width: 320px")
@@ -328,7 +328,7 @@
                 td.ajuste___left.ajuste-border-tabla Activo
                 td.ajuste-border-tabla.ajuste___left Débito
                 td.ajuste___left Crédito
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Pasivo
                 td.ajuste-border-tabla.ajuste___left Crédito
                 td.ajuste___left Débito
@@ -336,7 +336,7 @@
                 td.ajuste___left.ajuste-border-tabla Patrimonio
                 td.ajuste-border-tabla.ajuste___left Crédito
                 td.ajuste___left Débito
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Ingresos
                 td.ajuste-border-tabla.ajuste___left Crédito
                 td.ajuste___left Débito
@@ -344,7 +344,7 @@
                 td.ajuste___left.ajuste-border-tabla Gastos
                 td.ajuste-border-tabla.ajuste___left Débito
                 td.ajuste___left Crédito
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Costos
                 td.ajuste-border-tabla.ajuste___left Débito
                 td.ajuste___left Crédito
@@ -412,7 +412,7 @@
                   td.ajuste-border-tabla Grupo
                   td.ajuste-border-tabla Los dos primeros dígitos.
                   td 11 Disponible.
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste-border-tabla Cuenta
                   td.ajuste-border-tabla Los cuatro primeros dígitos.
                   td 1110 Bancos.
@@ -420,7 +420,7 @@
                   td.ajuste-border-tabla Subcuenta
                   td.ajuste-border-tabla Los seis primeros dígitos.
                   td 111005 Bancos nacionales.
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste-border-tabla Auxiliares
                   td.ajuste-border-tabla Con siete o más dígitos.
                   td 11100501 Banco BBVA.
@@ -449,19 +449,19 @@
                 tr  
                   td.ajuste-border-tabla Clase 1
                   td Activo.
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste-border-tabla Clase 2
                   td Pasivo.
                 tr  
                   td.ajuste-border-tabla Clase 3
                   td Patrimonio.
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste-border-tabla Clase 4
                   td Ingresos.
                 tr  
                   td.ajuste-border-tabla Clase 5
                   td Gastos.
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste-border-tabla Clase 6
                   td Costos de ventas.
                 tr  
@@ -501,7 +501,7 @@
                   td.ajuste___left.ajuste-border-tabla Inventarios
                   td.ajuste___right.ajuste-border-tabla $2.000.000
                   td.ajuste___right -
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla IVA descontable
                   td.ajuste___right.ajuste-border-tabla $380.000
                   td.ajuste___right -
@@ -509,7 +509,7 @@
                   td.ajuste___left.ajuste-border-tabla Proveedores Nacionales
                   td.ajuste-border-tabla.ajuste___right -
                   td.ajuste___right $2.380.000
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Total
                   td.ajuste___right.ajuste-border-tabla $2.380.000
                   td.ajuste___right $2.380.000
@@ -535,7 +535,7 @@
                   td.ajuste___left.ajuste-border-tabla Equipo computación
                   td.ajuste___right.ajuste-border-tabla $3.800.000
                   td.ajuste___right -
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Acreedores varios
                   td.ajuste-border-tabla.ajuste___right -
                   td.ajuste___right $3.800.000
@@ -565,7 +565,7 @@
                   td.ajuste___left.ajuste-border-tabla Acreedores varios
                   td.ajuste___right.ajuste-border-tabla $3.800.000
                   td.ajuste___right -
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Bancos
                   td.ajuste-border-tabla.ajuste___right -
                   td.ajuste___right $3.800.000
@@ -595,7 +595,7 @@
                   td.ajuste___left.ajuste-border-tabla Efectivo
                   td.ajuste___right.ajuste-border-tabla $10.000.000
                   td.ajuste___right -
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Maquinaria y equipo
                   td.ajuste___right.ajuste-border-tabla $10.000.000
                   td.ajuste___right -
@@ -603,7 +603,7 @@
                   td.ajuste___left.ajuste-border-tabla Aportes sociales
                   td.ajuste-border-tabla.ajuste___right -
                   td.ajuste___right $20.000.000
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Total
                   td.ajuste___right.ajuste-border-tabla $20.000.000
                   td.ajuste___right $20.000.000
@@ -629,7 +629,7 @@
                   td.ajuste___left.ajuste-border-tabla Gastos de arrendamiento
                   td.ajuste___right.ajuste-border-tabla $800.000
                   td.ajuste___right -
-                tr.ajuste-color-tabla-1
+                tr.ajuste-color-tabla-2
                   td.ajuste___left.ajuste-border-tabla Efectivo
                   td.ajuste-border-tabla.ajuste___right -
                   td.ajuste___right $800.000
@@ -714,25 +714,25 @@
               tr  
                 td.ajuste___left.ajuste-border-tabla Efectivo
                 td.ajuste___right $2.500.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Deudores
                 td.ajuste___right $2.000.000 
               tr  
                 td.ajuste___left.ajuste-border-tabla Inventarios
                 td.ajuste___right $2.800.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Propiedad, planta y equipo
                 td.ajuste___right $6.500.000 
               tr  
                 td.ajuste___left.ajuste-border-tabla Proveedores nacionales
                 td.ajuste___right $8.800.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Capital
                 td.ajuste___right $5.000.000 
               tr  
                 td.ajuste___left.ajuste-border-tabla Ingresos actividades ordinarias
                 td.ajuste___right $10.000.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste___left.ajuste-border-tabla Gastos
                 td.ajuste___right $4.000.000 
                 
@@ -768,25 +768,25 @@
               tr  
                 td.ajuste-border-tabla.ajuste___left Efectivo
                 td.ajuste___right $5.000.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste-border-tabla.ajuste___left Deudores
                 td.ajuste___right $3.500.000 
               tr  
                 td.ajuste-border-tabla.ajuste___left Inventarios
                 td.ajuste___right $2.000.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste-border-tabla.ajuste___left Propiedad, planta y equipo
                 td.ajuste___right $9.000.000 
               tr  
                 td.ajuste-border-tabla.ajuste___left Obligaciones financieras
                 td.ajuste___right $15.000.000 
-              tr.ajuste-color-tabla-1
+              tr.ajuste-color-tabla-2
                 td.ajuste-border-tabla.ajuste___left Capital
                 td.ajuste___right ?
 
     p.mb-4.ajuste-espacios-movil La ecuación aplicable en este caso es la siguiente:
 
-    h5.mb-5.caja-text-tema2-bloque4-2.ajuste___width_1(data-aos="fade-right") Patrimonio = Activo - Pasivo
+    h5.mb-5.caja-text-tema2-bloque4-2.ajuste___width_4(data-aos="fade-right") Patrimonio = Activo - Pasivo
 
     .titulo-sexto.color-acento-contenido.mb-3.ajuste-espacios-movil
       h5 Figura 2.    
