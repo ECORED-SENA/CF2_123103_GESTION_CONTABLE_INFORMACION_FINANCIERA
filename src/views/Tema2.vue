@@ -9,7 +9,7 @@
     
     p.mb-4 En los fundamentos contables, las políticas contables son esenciales para garantizar la claridad y transparencia de la información financiera, facilitando el análisis y toma de decisiones en la gestión empresarial.
 
-    p.mb-4 A continuación: se presenta los fundamentos contables, resaltando la importancia de comprender conceptos clave como activo, pasivo, patrimonio, ingresos y gastos.
+    p.mb-4 A continuación, se presentan los fundamentos contables, resaltando la importancia de comprender conceptos clave como activo, pasivo, patrimonio, ingresos y gastos.
   
     figure(data-aos="fade-up")
       .video
@@ -193,7 +193,7 @@
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema2/img10.png" style="max-width: 500px").m-auto
       .col-lg
-        p.mb-4 Cuando se registran las operaciones comerciales en el comprobante diario se procede a determinar el saldo de las cuentas. En caso de manejar software contable, se posibilita extraer los auxiliares de cada cuenta según la necesidad que surja para su análisis o consulta (Warren, Reeves y Duchac, 2016; Santos-Cid, 2018; Vilches, 2019; Angulo, 2018). 
+        p.mb-4 Cuando se registran las operaciones comerciales en el comprobante diario se procede a determinar el saldo de las cuentas. En caso de manejar <em>software</em> contable, se posibilita extraer los auxiliares de cada cuenta según la necesidad que surja para su análisis o consulta (Warren, Reeves y Duchac, 2016; Santos-Cid, 2018; Vilches, 2019; Angulo, 2018). 
         p.mb-0 Determinar el saldo significa restar los valores monetarios que se encuentran registrados en el <strong>debe</strong> y en el <strong>haber</strong>. Esta acción se realiza con la misma cuenta. Por ejemplo, se desea conocer el saldo de la cuenta de caja, entonces se revisan todos los movimientos débitos y los créditos; seguidamente, se determina la diferencia y el resultado de esta operación es el saldo de la cuenta caja; este saldo refleja el dinero con que se cuenta en efectivo y, por ser del activo, su naturaleza es débito.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -205,8 +205,8 @@
 
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-lg
-        p.caja-text-bloque1(data-aos="fade-right") En la primera unidad temática se analizó el concepto de los elementos de los estados financieros, conforme a lo estipulado en el Marco Conceptual de Información Financiera (CTCP, 2010). A partir de ello, se profundizó en el concepto y se analizó su naturaleza con el fin de registrar la transacción de forma correcta y, de esta manera generar reportes útiles para la administración. 
-        p.mb-0 Las cuentas de acuerdo con su naturaleza se encuentran clasificadas en reales o de balance, y nominales o de resultado (Warren, Reeves y Duchac, 2016; Santos-Cid, 2018; Vilches, 2019; Angulo, 2018; CTCP, 2010):
+        p.caja-text-bloque1(data-aos="fade-right") En la primera unidad temática se analizó el concepto de los elementos de los estados financieros, conforme a lo estipulado en el Marco Conceptual de Información Financiera (CTCP, 2010). A partir de ello, se profundizó en el concepto y se analizó su naturaleza con el fin de registrar la transacción de forma correcta y, de esta manera, generar reportes útiles para la administración. 
+        p.mb-0 Las cuentas, de acuerdo con su naturaleza, se encuentran clasificadas en reales o de balance, y nominales o de resultado (Warren, Reeves y Duchac, 2016; Santos-Cid, 2018; Vilches, 2019; Angulo, 2018; CTCP, 2010):
       .col-lg-auto
         figure(data-aos="fade-left").d-none.d-xl-block
             img(src="@/assets/curso/tema2/img11.svg" style="max-width: 400px").m-auto
@@ -349,7 +349,7 @@
                 td.ajuste-border-tabla.ajuste___left Débito
                 td.ajuste___left Crédito
     
-    p.mb-5 Para lograr uniformidad en el momento de registrar las transacciones realizadas por las empresas y, dar claridad y confiabilidad en dichos registros se crea el Plan Único de Cuentas -PUC-. Por este motivo, en Colombia existen 19 PUC, entre ellos se encuentran el decreto 2650 de 1993, que es utilizado para comerciantes.
+    p.mb-5 Para lograr uniformidad en el momento de registrar las transacciones realizadas por las empresas y; dar claridad y confiabilidad en dichos registros se crea el Plan Único de Cuentas -PUC-; por este motivo, en Colombia existen 19 PUC, entre ellos se encuentran el decreto 2650 de 1993, que es utilizado para comerciantes.
 
     .row.align-items-center.mb-5.ajuste-espacios-movil
       .col-lg-auto
@@ -359,7 +359,7 @@
         p El PUC se encuentra integrado por el catálogo de cuentas, descripciones y dinámicas que orientan y facilitan el registro de las transacciones generadas.
         p.mb-0.caja-text-bloque2-1(data-aos="fade-left") En coherencia con las normas internacionales no se utiliza el Plan Único de Cuentas. Sin embargo, en Colombia las empresas siguen utilizándolo. Los PUC han sido modificados conforme a las necesidades de las empresas a través del tiempo. En algunos casos se incorporan o eliminan cuentas. También, se cambian nombres y códigos con el fin de generar estados financieros que cumplan con la taxonomía XBRL.
     
-    p.mb-4.ajuste-espacios-movil La taxonomía XBRL (<em>eXtensible Business Reporting Language</em>) es una norma que se usa para comunicar información financiera entre preparadores y usuarios de la información financiera. La Fundación IFRS es responsable del desarrollo de la representación XBRL de las NIIF - incluyendo las Normas NIC, las Interpretaciones CINIIF y la Norma NIIF para las PYMES - emitida por el Consejo de Normas Internacionales de Contabilidad (2018), conocida como la Taxonomía NIIF, la cual establece (IFRS <em>Foundation</em>, 2019): 
+    p.mb-4.ajuste-espacios-movil La taxonomía XBRL (<em>extensible Business Reporting Language</em>) es una norma que se usa para comunicar información financiera entre preparadores y usuarios de la información financiera. La Fundación IFRS es responsable del desarrollo de la representación XBRL de las NIIF; incluyendo las Normas NIC, las Interpretaciones CINIIF y la Norma NIIF para las PYMES; emitida por el Consejo de Normas Internacionales de Contabilidad (2018), conocida como la Taxonomía NIIF, la cual establece (IFRS <em>Foundation</em>, 2019): 
 
     .row.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
@@ -544,7 +544,7 @@
                   td.ajuste___right.ajuste-border-tabla $3.800.000
                   td.ajuste___right $3.800.000
 
-      p.mb-5 Se registra el activo- equipo de computación, presentando aumento (débito) y acreedores varios en el pasivo (crédito) incrementando el valor de la deuda.
+      p.mb-5 Se registra el activo equipo de computación, presentando aumento (débito) y acreedores varios en el pasivo (crédito) incrementando el valor de la deuda.
 
       p.mb-4.ajuste-espacios-movil <strong>Ejemplo 3.</strong> El 15 de octubre se cancela el valor de adquisición del equipo de computación relacionado en el ejercicio anterior, con cheque.
 
@@ -574,7 +574,7 @@
                   td.ajuste___right.ajuste-border-tabla $3.800.000
                   td.ajuste___right $3.800.000
                   
-      p.mb-5 Teniendo en cuenta que se cancela la deuda, disminuye el pasivo- acreedores varios (débito) y a su vez la cuenta de banco (crédito), considerando que se presenta una salida de dinero. Cabe resaltar, que esta clase de cuentas tienen naturaleza diferente.
+      p.mb-5 Teniendo en cuenta que se cancela la deuda, disminuye el pasivo acreedores varios (débito) y a su vez la cuenta de banco (crédito), considerando que se presenta una salida de dinero. Cabe resaltar, que esta clase de cuentas tienen naturaleza diferente.
 
       p.mb-4.ajuste-espacios-movil <strong>Ejemplo 4.</strong> Se constituye la empresa Sandles SAS, un socio aporta $10.000.000 en efectivo y el segundo socio aporta maquinaria y equipo por $10.000.000. 
 
@@ -813,7 +813,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/tema2/img27.svg" style="width: 200px").m-auto
         .col-lg.ajuste__parrafo_4
-          p Con el fin de ampliar sus conocimientos sobre la temática, por favor revise las referencias bibliográficas propuestas de la biblioteca SENA, entre ellas se encuentra:
+          p Con el fin de ampliar sus conocimientos sobre la temática, por favor, revise las referencias bibliográficas propuestas de la biblioteca SENA, entre ellas se encuentra:
           p.mb-0 <strong>Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. Ediciones de la U. Bogotá: Colombia. </strong>
 
 </template>

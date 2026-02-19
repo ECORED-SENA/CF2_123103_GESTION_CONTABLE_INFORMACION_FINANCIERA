@@ -22,7 +22,7 @@
       .col
         h3 Usuarios de la información contable y financiera
 
-    p.mb-4.ajuste-espacios-movil Los usuarios son las personas interesadas en conocer la situación financiera de la empresa, entre ellos, encontramos los siguientes (Vilches, 2019):
+    p.mb-4.ajuste-espacios-movil Los usuarios son las personas interesadas en conocer la situación financiera de la empresa; entre ellos, encontramos los siguientes (Vilches, 2019):
 
     .row.mb-5
       .col-lg.p-0
@@ -169,9 +169,9 @@
       .col-lg
         .bloque-texto-c.p-4.mb-2(data-aos="fade-left")
           i.fas.fa-quote-right
-          h5.mb-4 Proporcionar información financiera sobre la entidad que informa que sea útil a los inversores, prestamistas y otros acreedores existentes y potenciales para tomar decisiones sobre el suministro de recursos a la entidad. Esas decisiones conllevan, comprar, vender o mantener patrimonio e instrumentos de deuda, y proporcionar o liquidar préstamos y otras formas de crédito.
+          h5.mb-4 Proporcionar información financiera sobre la entidad que informa que sea útil a los inversores, prestamistas y otros acreedores existentes y potenciales para tomar decisiones sobre el suministro de recursos a la entidad. Esas decisiones conllevan comprar, vender o mantener patrimonio e instrumentos de deuda, y proporcionar o liquidar préstamos y otras formas de crédito.
           span (Consejo de Normas Internacionales de Contabilidad 2018 p. 10).
-        p.ajuste-espacios-movil-1 Con el fin de ampliar sus conocimientos sobre la temática, por favor revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018), a través del siguiente enlace:
+        p.ajuste-espacios-movil-1 Con el fin de ampliar sus conocimientos sobre la temática, por favor, revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018), a través del siguiente enlace:
         a.anexo.ajuste__anexo.m-2(:href="('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-iasb-emitidas-en-2018/5-c-marco-conceptual-para-la')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -250,7 +250,7 @@
         .row.align-items-center
           .col
             h4 Oportunidad
-            p.m-0 Consiste en obtener la información en el momento adecuado para la toma de decisiones, por ende, debe estar actualizada.
+            p.m-0 Consiste en obtener la información en el momento adecuado para la toma de decisiones; por ende, debe estar actualizada.
           .col-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema1/img22.svg" style="max-width: 172px").m-auto
@@ -263,7 +263,7 @@
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema1/img23.svg" style="max-width: 172px").m-auto
 
-    p Para que la información sea útil es importante dar aplicabilidad a las características fundamentales y de mejora simultáneamente, esto garantiza que la información cumpla con los estándares exigidos y contribuya con la toma decisiones.
+    p Para que la información sea útil, es importante dar aplicabilidad a las características fundamentales y de mejora simultáneamente; esto garantiza que la información cumpla con los estándares exigidos y contribuya con la toma de decisiones.
     
     Separador
     <!-- BLOQUE 2 -->
@@ -280,7 +280,7 @@
           </ul>
         .col.ajuste-caja-text-bloque2.mb-2(data-aos="fade-right")
           <ul class="fa-ul">
-            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Asistir a los preparadores para desarrollar políticas contables congruentes cuando no es aplicable ninguna Norma a una transacción específica u otro suceso, o cuando una Norma permite una opción de política contable (p. 8).</li>
+            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Asistir a los preparadores para desarrollar políticas contables congruentes cuando no es aplicable ninguna norma a una transacción específica u otro suceso, o cuando una norma permite una opción de política contable (p. 8).</li>
           </ul>
         .col.ajuste-caja-text-bloque2.mb-2(data-aos="fade-right")
           <ul class="fa-ul">
@@ -387,7 +387,7 @@
             h3 Reconocimiento
       .row.align-items-center.mb-5.ajuste-espacios-movil
         .col-lg
-          p.mb-0.caja-text-bloque2(data-aos="fade-right") Se refiera al proceso de registrar los hechos económicos generados en el transcurso normal de las operaciones de la empresa, los cuales se verán reflejados en los estados financieros una vez se verifica que cumplan con el concepto de sus elementos.
+          p.mb-0.caja-text-bloque2(data-aos="fade-right") Se refiere al proceso de registrar los hechos económicos generados en el transcurso normal de las operaciones de la empresa, los cuales se verán reflejados en los estados financieros una vez se verifica que cumplan con el concepto de sus elementos.
           p.mb-0 Cabe resaltar que un activo, pasivo o patrimonio, para ser reconocido en el estado de situación financiera, debe cumplir con su respectiva definición, atendiendo a las características que se establecen. De igual forma, los ingresos y gastos se reconocerán en el estado de resultados integral solamente si cumplen con la definición respectiva. En consecuencia, el reconocimiento de un activo y un pasivo genera simultáneamente el reconocimiento de un ingreso y un gasto, teniendo en cuenta la transacción realizada. Esto es denominado ocasionalmente correlacional de costos e ingresos; por ejemplo, suele presentarse en la venta de bienes y/o servicios donde se reconoce el ingreso por actividades ordinarias y a su vez el activo (efectivo).
         .col-lg-auto
           figure(data-aos="fade-left").d-none.d-xl-block
@@ -425,7 +425,7 @@
       .col.ajuste-h4-bloque2
         h4.mb-0 Bases de medición
 
-    p.mb-4 La base de medición es la cuantificación en términos monetarios de los elementos de los estados financieros. De acuerdo con las políticas y lineamientos normativos se presentan diferentes bases, por ello, es importante seleccionar la base de medición más adecuada para presentar la información financiera atendiendo a los estándares internacionales (Consejo de Normas Internacionales de Contabilidad, 2018):
+    p.mb-4 La base de medición es la cuantificación en términos monetarios de los elementos de los estados financieros. De acuerdo con las políticas y lineamientos normativos, se presentan diferentes bases; por ello, es importante seleccionar la base de medición más adecuada para presentar la información financiera, atendiendo a los estándares internacionales (Consejo de Normas Internacionales de Contabilidad, 2018):
     
     .bg--img_03.mb-5
       .row.h-100.align-items-center
@@ -478,7 +478,7 @@
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NhsdLCBUev4" title="Política Contable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
-    p.mb-5.ajuste-espacios-movil Para diseñar las políticas contables es importante identificar el grupo de presentación de información financiera: Grupo 1-NIIF plenas, Grupo 2-NIIF Pymes, Grupo 3-NIF Microempresas. Según los lineamientos del Decreto Único Reglamentario -DUR- 2420 de 2015, el grupo 1, posee las siguientes características:
+    p.mb-5.ajuste-espacios-movil Para diseñar las políticas contables, es importante identificar el grupo de presentación de información financiera: Grupo 1-NIIF plenas, Grupo 2-NIIF Pymes, Grupo 3-NIF Microempresas. Según los lineamientos del Decreto Único Reglamentario -DUR- 2420 de 2015, el grupo 1, posee las siguientes características:
 
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-lg-auto
@@ -504,10 +504,10 @@
             <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Ser subordinada o sucursal de una compañía extranjera que aplique NIIF plenas.</li>
             <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Ser subordinada o matriz de una compañía nacional que deba aplicar NIIF plenas.</li>
             <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Ser matriz, asociada o negocio conjunto de una o más entidades extranjeras que apliquen NIIF plenas.</li>
-            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Realizar importaciones o exportaciones que representen más del 50% de las compras o de las ventas respectivamente.</li>
+            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Realizar importaciones o exportaciones que representen más del 50% de las compras o de las ventas, respectivamente.</li>
           </ul>
     
-    p.mb-5.ajuste-espacios-movil Para elaborar las políticas del grupo 1 de empresas se tienen en cuenta los lineamientos estipulados en la Norma Internacional de Contabilidad (NIC 8), la cual expresa:
+    p.mb-5.ajuste-espacios-movil Para elaborar las políticas del grupo 1 de empresas, se tienen en cuenta los lineamientos estipulados en la Norma Internacional de Contabilidad (NIC 8), la cual expresa:
 
     TabsB.color-acento-contenido.mb-5.ajuste-espacios-movil(data-aos="fade-up")
       .py-4.py-md-5(titulo="Objetivo" :icono="require('@/assets/curso/tema1/img39.svg')")
