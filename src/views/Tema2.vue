@@ -349,7 +349,7 @@
                 td.ajuste-border-tabla.ajuste___left Débito
                 td.ajuste___left Crédito
     
-    p.mb-5 Para lograr uniformidad en el momento de registrar las transacciones realizadas por las empresas y; dar claridad y confiabilidad en dichos registros se crea el Plan Único de Cuentas -PUC-; por este motivo, en Colombia existen 19 PUC, entre ellos se encuentran el decreto 2650 de 1993, que es utilizado para comerciantes.
+    p.mb-5 Para lograr uniformidad en el momento de registrar las transacciones realizadas por las empresas y; dar claridad y confiabilidad en dichos registros se crea el Plan Único de Cuentas PUC; por este motivo, en Colombia existen 19 PUC, entre ellos se encuentran el decreto 2650 de 1993, que es utilizado para comerciantes.
 
     .row.align-items-center.mb-5.ajuste-espacios-movil
       .col-lg-auto

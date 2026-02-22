@@ -250,7 +250,7 @@
         .row.align-items-center
           .col
             h4 Oportunidad
-            p.m-0 Consiste en obtener la información en el momento adecuado para la toma de decisiones; por ende, debe estar actualizada.
+            p.m-0 Consiste en obtener la información en el momento adecuado para la toma de decisiones, por ende, debe estar actualizada.
           .col-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema1/img22.svg" style="max-width: 172px").m-auto
@@ -280,7 +280,7 @@
           </ul>
         .col.ajuste-caja-text-bloque2.mb-2(data-aos="fade-right")
           <ul class="fa-ul">
-            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Asistir a los preparadores para desarrollar políticas contables congruentes cuando no es aplicable ninguna norma a una transacción específica u otro suceso, o cuando una norma permite una opción de política contable (p. 8).</li>
+            <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Asistir a los preparadores para desarrollar políticas contables congruentes cuando no es aplicable ninguna NORMA a una transacción específica u otro suceso, o cuando una NORMA permite una opción de política contable (p. 8).</li>
           </ul>
         .col.ajuste-caja-text-bloque2.mb-2(data-aos="fade-right")
           <ul class="fa-ul">
@@ -290,7 +290,7 @@
         figure.d-none.d-xl-block(data-aos="fade-left")
           img(src='@/assets/curso/tema1/img24.png', alt="" style="max-width: 400px").m-auto
     
-    p.mb-5 El Marco Conceptual para la Información Financiera fue expedido inicialmente en 1989 por el <strong>Comité de Normas Internacionales de Contabilidad (IASC)</strong>. Posteriormente, fue ampliado por la junta internacional de normas de contabilidad (IASB) y publicado en septiembre de 2010, donde permanece el documento inicial y se registran otras novedades. Fue revisado, modificado y emitido una vez más el 29 de marzo de 2018, con el fin de realizar mejoras al documento en cuanto a conceptos de reconocimiento, medición, presentación y revelación en la aplicación contable. Estas últimas disposiciones comenzaron a implementarse a partir del 1 de enero de 2020.
+    p.mb-5 El Marco Conceptual para la Información Financiera fue expedido inicialmente en 1989 por el <strong>Comité de Normas Internacionales de Contabilidad (IASC)</strong>. Posteriormente, fue ampliado por la JUNTA INTERNACIONAL DE NORMAS DE CONTABILIDAD (IASB) y publicado en septiembre de 2010, donde permanece el documento inicial y se registran otras novedades. Fue revisado, modificado y emitido una vez más el 29 de marzo de 2018, con el fin de realizar mejoras al documento en cuanto a conceptos de reconocimiento, medición, presentación y revelación en la aplicación contable. Estas últimas disposiciones comenzaron a implementarse a partir del 1 de enero de 2020.
     
     .row.mb-5.ajuste-espacios-movil
       .col-lg-auto
@@ -358,7 +358,7 @@
                 img(src="@/assets/curso/tema1/img31.svg" style="width: 85px").m-auto
             .col-lg
               p.mb-0 <strong>Definición de gastos</strong>: disminuciones en los activos o incrementos en los pasivos que dan lugar a disminuciones en el patrimonio, distintos de los relacionados con distribuciones de los tenedores de derechos sobre el patrimonio.
-        p Con el fin de ampliar sus conocimientos sobre la temática, por favor revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018) a través del siguiente enlace: 
+        p Con el fin de ampliar sus conocimientos sobre la temática, por favor, revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018) a través del siguiente enlace: 
         a.anexo.ajuste__anexo.m-2(:href="('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-iasb-emitidas-en-2018/5-c-marco-conceptual-para-la')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -448,7 +448,7 @@
     .row.mb-5.justify-content-center.ajuste-espacios-movil.m-0(data-aos="fade-up")
       .caja-nota-bloque2
         .col-lg-auto
-          p.mb-4 Con el fin de ampliar sus conocimientos sobre la temática, por favor revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018) a través del siguiente enlace:
+          p.mb-4 Con el fin de ampliar sus conocimientos sobre la temática, por favor, revise el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018) a través del siguiente enlace:
           a.anexo.ajuste__anexo.m-2(:href="('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-iasb-emitidas-en-2018/5-c-marco-conceptual-para-la')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
@@ -548,7 +548,7 @@
     .row.mb-5.justify-content-center.ajuste-espacios-movil.m-0(data-aos="fade-up")
       .caja-nota-bloque2.ajuste__color
         .col-lg-auto
-          p.mb-4 Con el fin de ampliar sus conocimientos sobre la temática, por favor revise la Norma Internacional de Contabilidad -NIC 8- (Consejo Técnico de la Contaduría Pública -CTCP-, 2010), a través del siguiente enlace:
+          p.mb-4 Con el fin de ampliar sus conocimientos sobre la temática, por favor, revise la Norma Internacional de Contabilidad -NIC 8- (Consejo Técnico de la Contaduría Pública -CTCP-, 2010), a través del siguiente enlace:
           a.anexo.ajuste__anexo.m-2(:href="('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
