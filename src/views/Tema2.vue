@@ -33,7 +33,7 @@
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-lg
         p El hecho contable hace referencia a la transacción u operación realizada por la empresa que debe ser registrada de acuerdo con los criterios de reconocimiento y medición. Además, se deben tener en cuenta las políticas diseñadas por la entidad.
-        p.mb-0.caja-text-bloque1(data-aos="fade-right") Esta parte es fundamental, aquí se tiene en cuenta si la transacción que se generó hace parte de un activo, pasivo, patrimonio, ingresos o gastos; de allí, la importancia de conocer la definición y características establecidas para su reconocimiento. De igual forma, se tienen en cuenta las bases de medición, las cuales se encuentran registradas en las políticas contables que fueron diseñadas conforme las directrices señaladas en la NIC 8 (CTCP, 2010).
+        p.mb-0.caja-text-bloque1(data-aos="fade-right") Esta parte es fundamental, aquí se tiene en cuenta si la transacción que se generó hace parte de un activo, pasivo, patrimonio, ingresos o gastos; de allí, la importancia de conocer la definición y características establecidas para su reconocimiento. De igual forma, se tienen en cuenta las bases de medición, las cuales se encuentran registradas en las políticas contables que fueron diseñadas conforme a las directrices señaladas en la NIC 8 (CTCP, 2010).
       .col-lg-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema2/img2.png" style="max-width: 400px").m-auto
@@ -294,7 +294,7 @@
                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Su saldo es débito.</li>
               </ul>      
             .row(titulo="Costos").ajuste-cajaAcordion-2
-              p.p-0 Hace referencia a la inversión que se realiza para adquirir el producto que se desea ofertar o se pretender fabricar, depende del objeto social de la empresa. Se clasifican en costos de ventas y costos de producción:
+              p.p-0 Hace referencia a la inversión que se realiza para adquirir el producto que se desea ofertar o se pretende fabricar, depende del objeto social de la empresa. Se clasifican en costos de ventas y costos de producción:
               <ul class="fa-ul ajuste-ul-bloque4">
                 <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span><strong>Costos de ventas</strong>: son aplicados por las empresas comerciales, que se dedican a la compra y venta de bienes. El costo de estas empresas es el valor de adquisición del bien.</li>
                 <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span><strong>Costos de producción</strong>: son calculados por las empresas industriales que se encargan de transformar materia prima en producto terminado. Allí intervienen los elementos del costo: Materia Prima Directa (MPD), Mano de Obra Directa (MOD), Costos Indirectos de Fabricación (CIF).</li>
@@ -359,7 +359,7 @@
         p El PUC se encuentra integrado por el catálogo de cuentas, descripciones y dinámicas que orientan y facilitan el registro de las transacciones generadas.
         p.mb-0.caja-text-bloque2-1(data-aos="fade-left") En coherencia con las normas internacionales no se utiliza el Plan Único de Cuentas. Sin embargo, en Colombia las empresas siguen utilizándolo. Los PUC han sido modificados conforme a las necesidades de las empresas a través del tiempo. En algunos casos se incorporan o eliminan cuentas. También, se cambian nombres y códigos con el fin de generar estados financieros que cumplan con la taxonomía XBRL.
     
-    p.mb-4.ajuste-espacios-movil La taxonomía XBRL (<em>extensible Business Reporting Language</em>) es una norma que se usa para comunicar información financiera entre preparadores y usuarios de la información financiera. La Fundación IFRS es responsable del desarrollo de la representación XBRL de las NIIF; incluyendo las Normas NIC, las Interpretaciones CINIIF y la Norma NIIF para las PYMES; emitida por el Consejo de Normas Internacionales de Contabilidad (2018), conocida como la Taxonomía NIIF, la cual establece (IFRS <em>Foundation</em>, 2019): 
+    p.mb-4.ajuste-espacios-movil La taxonomía XBRL (<em>Extensible Business Reporting Language</em>) es una norma que se usa para comunicar información financiera entre preparadores y usuarios de la información financiera. La Fundación IFRS es responsable del desarrollo de la representación XBRL de las NIIF; incluyendo las Normas NIC, las Interpretaciones CINIIF y la Norma NIIF para las PYMES; emitida por el Consejo de Normas Internacionales de Contabilidad (2018), conocida como la Taxonomía NIIF, la cual establece (IFRS <em>Foundation</em>, 2019): 
 
     .row.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")

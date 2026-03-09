@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Para empezar, es importante recordar que existen diferentes tipos de empresas que ofrecen productos y servicios con el fin de satisfacer necesidades de los usuarios; por tanto, deben implementar un sistema contable que permita la evaluación y análisis de la información para la toma de decisiones sobre inversión, rentabilidad y endeudamiento. En consecuencia, existen procesos contables y criterios que deben aplicarse para dar cumplimiento a las NIIF, satisfaciendo, de esta manera, las necesidades de los usuarios en cuanto a la generación de información confiable, comparable, compresible, verificable y oportuna (Cuaspa, 2013).
+        p.mb-0 Para empezar, es importante recordar que existen diferentes tipos de empresas que ofrecen productos y servicios con el fin de satisfacer necesidades de los usuarios; por tanto, deben implementar un sistema contable que permita la evaluación y análisis de la información para la toma de decisiones sobre inversión, rentabilidad y endeudamiento. En consecuencia, existen procesos contables y criterios que deben aplicarse para dar cumplimiento a las NIIF, satisfaciendo, de esta manera, las necesidades de los usuarios en cuanto a la generación de información confiable, comparable, comprensible, verificable y oportuna (Cuaspa, 2013).
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -140,7 +140,7 @@
             .row(titulo="1993").align-items-center
               .col-lg-6.mb-4.mb-md-0.ajuste-text-bloque1
                 h4.mb-3 1993
-                p En Latinoamérica, después de las independencias de los Estados, se continuó usando por mucho tiempo las técnicas contables traídas desde España. En Colombia, en 1993 se reglamentó la contabilidad en general y se expidió a partir del decreto 2649 el compendio de principios o normas de contabilidad generalmente aceptadas (PCGA). Este nombre surge de la traducción del inglés de las NIC (Normas Internacionales de Contabilidad). Con la ley 2420 del 2015 se adoptaron en Colombia, al igual que en el resto de los países, las Normas Internacionales de Información Financiera (NIIF) para dar uniformidad a la presentación de la información financiera de las entidades que cotizan en bolsa; para ser entendida sin importar la nacionalidad de quien utiliza dicha información o la interpreta.
+                p En Latinoamérica, después de las independencias de los Estados, se continuó usando por mucho tiempo las técnicas contables traídas desde España. En Colombia, en 1993 se reglamentó la contabilidad en general y se expidió a partir del decreto 2649 el compendio de principios o normas de contabilidad generalmente aceptadas (PCGA). Este nombre surge de la traducción del inglés de las NIC (Normas Internacionales de Contabilidad). Con la ley 2420 del 2015 se adoptaron en Colombia, al igual que en el resto de los países, las Normas Internacionales de Información Financiera (NIIF) para dar uniformidad a la presentación de la información financiera de las entidades que cotizan en bolsa, para ser entendida sin importar la nacionalidad de quien utiliza dicha información o la interpreta.
               .col-lg-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/tema1/img14.svg', alt="" style="max-width: 400px").m-auto

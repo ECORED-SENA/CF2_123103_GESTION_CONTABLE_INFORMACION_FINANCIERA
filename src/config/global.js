@@ -176,7 +176,7 @@ export default {
     {
       termino: 'Capital',
       significado:
-        'Es el aporte de los socios, puede darse en aporte financieros o industrial.',
+        'Es el aporte de los socios, puede darse en aportes financieros o industrial.',
     },
     {
       termino: 'Costo histórico',
@@ -195,7 +195,7 @@ export default {
     {
       termino: 'Cuentas de resultado',
       significado:
-        'Son aquellas cuentas que reflejan el resultado del ejercicio, el cual puede ser una utilidad o perdida. Las cuentas son ingresos y gastos.',
+        'Son aquellas cuentas que reflejan el resultado del ejercicio, el cual puede ser una utilidad o pérdida. Las cuentas son ingresos y gastos.',
     },
     {
       termino: 'Debe',

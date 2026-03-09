@@ -12,7 +12,7 @@
     "@popperjs/core": "^2.11.8",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.2",
-    "ecored-pkg-fliz": "0.0.9",
+    "ecored-pkg-fliz": "0.0.10",
     "font-awesome": "^4.7.0",
     "vue": "^2.7.14",
     "vue-router": "^3.6.5",
