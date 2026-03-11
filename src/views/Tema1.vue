@@ -108,7 +108,7 @@
             .row(titulo="Edad Media").align-items-center
               .col-md-6.mb-4.mb-md-0.ajuste-text-bloque1
                 h4.mb-3 Edad Media
-                p Con el inicio del imperio Romano se aprobaron asientos realizados en libros de contabilidad. Fueron los banqueros romanos quienes perfeccionaron las técnicas contables, con el fin de controlar los valores que otorgaban al ejército para sus conquistas territoriales.
+                p Con el inicio del imperio romano se aprobaron asientos realizados en libros de contabilidad. Fueron los banqueros romanos quienes perfeccionaron las técnicas contables, con el fin de controlar los valores que otorgaban al ejército para sus conquistas territoriales.
               .col-md-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/tema1/img10.svg', alt="" style="max-width: 400px").m-auto
@@ -116,7 +116,7 @@
             .row(titulo="Siglos VII - VIII").align-items-center
               .col-lg-6.mb-4.mb-md-0.ajuste-text-bloque1
                 h4.mb-3 Siglos VII - VIII
-                p En Italia durante los Siglos VII y VIII, principalmente en Venecia, la actividad contable se convirtió en una actividad de mucho prestigio, puesto que, por mandato de los señores feudales, los libros eran llevados por escribanos. Las ciudades de Venecia, Génova y Florencia fueron el epicentro del comercio, la industria y la banca, lo que les permitió desarrollar técnicas de contabilidad.
+                p En Italia durante los siglos VII y VIII, principalmente en Venecia, la actividad contable se convirtió en una actividad de mucho prestigio, puesto que, por mandato de los señores feudales, los libros eran llevados por escribanos. Las ciudades de Venecia, Génova y Florencia fueron el epicentro del comercio, la industria y la banca, lo que les permitió desarrollar técnicas de contabilidad.
               .col-lg-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/tema1/img11.svg', alt="" style="max-width: 400px").m-auto
@@ -437,14 +437,14 @@
             .row(titulo="Costo histórico").ajuste-cajaAcordion
               p Es el precio de transacción, el valor de adquisición, de compra o creación de un activo. Es el valor de la contraprestación recibida al obtener el pasivo.
             .row(titulo="Valor corriente").ajuste-cajaAcordion
-              p "Las mediciones del valor corriente proporcionan información monetaria sobre activos, pasivos, e ingresos y gastos relacionados, usando información actualizada para reflejar las condiciones en la fecha de medición. Debido a la continua actualización, los valores corrientes de activos y pasivos reflejan los cambios, desde la fecha de medición anterior, en las estimaciones de flujos de efectivo y otros factores reflejados en los valores corrientes” (Consejo de Normas Internacionales de Contabilidad, 2018. p. 44).       
+              p "Las mediciones del valor corriente proporcionan información monetaria sobre activos, pasivos, e ingresos y gastos relacionados, usando información actualizada para reflejar las condiciones en la fecha de medición. Debido a la continua actualización, los valores corrientes de activos y pasivos reflejan los cambios, desde la fecha de medición anterior, en las estimaciones de flujos de efectivo y otros factores reflejados en los valores corrientes" (Consejo de Normas Internacionales de Contabilidad, 2018. p. 44).       
             .row(titulo="Valor razonable").ajuste-cajaAcordion
-              p "Valor razonable es el precio que se recibiría por vender un activo o que se pagaría por transferir un pasivo en una transacción ordenada entre participantes de mercado, en la fecha de la medición” (Consejo de Normas Internacionales de Contabilidad, 2018. p. 44).
+              p "Valor razonable es el precio que se recibiría por vender un activo o que se pagaría por transferir un pasivo en una transacción ordenada entre participantes de mercado, en la fecha de la medición" (Consejo de Normas Internacionales de Contabilidad, 2018. p. 44).
             .row(titulo="Valor en uso y valor de cumplimiento").ajuste-cajaAcordion
-              p "El valor en uso es el valor presente de los flujos de efectivo, o de otros beneficios económicos, que una entidad espera obtener del uso de un activo y de su disposición final. El valor de cumplimiento es el valor presente de los flujos de efectivo o de otros beneficios económicos, que una entidad espera verse obligada a transferir a medida que satisface un pasivo” (Consejo de Normas Internacionales de Contabilidad, 2018. p. 45).
+              p "El valor en uso es el valor presente de los flujos de efectivo, o de otros beneficios económicos, que una entidad espera obtener del uso de un activo y de su disposición final. El valor de cumplimiento es el valor presente de los flujos de efectivo o de otros beneficios económicos, que una entidad espera verse obligada a transferir a medida que satisface un pasivo" (Consejo de Normas Internacionales de Contabilidad, 2018. p. 45).
             .row(titulo="Costo corriente").ajuste-cajaAcordion
-              p "El costo corriente de un activo es el costo de un activo equivalente en la fecha de medición, que comprende la contraprestación que se pagaría en la fecha de medición más los costos de transacción en los que se incurriría en esa fecha” (Consejo de Normas Internacionales de Contabilidad, 2018. p. 45).
-    
+              p "El costo corriente de un activo es el costo de un activo equivalente en la fecha de medición, que comprende la contraprestación que se pagaría en la fecha de medición más los costos de transacción en los que se incurriría en esa fecha" (Consejo de Normas Internacionales de Contabilidad, 2018. p. 45).
+
     .row.mb-5.justify-content-center.ajuste-espacios-movil.m-0(data-aos="fade-up")
       .caja-nota-bloque2
         .col-lg-auto
