@@ -13,7 +13,7 @@
   
     figure(data-aos="fade-up")
       .video
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/lok_ojpOwcc" title="Fundamentos contables" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vP-wDEhQEZg?si=Zdwv8hzdvrDUTt9A" title="Fundamentos contables" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     Separador
     <!-- BLOQUE 1 -->

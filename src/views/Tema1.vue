@@ -476,7 +476,7 @@
 
     figure.mb-5(data-aos="fade-up")
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NhsdLCBUev4" title="Política Contable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/G9oXzJLHWpM?si=wCaOGaWEVbDiMaBP" title="Política Contable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     p.mb-5.ajuste-espacios-movil Para diseñar las políticas contables, es importante identificar el grupo de presentación de información financiera: Grupo 1-NIIF plenas, Grupo 2-NIIF Pymes, Grupo 3-NIF Microempresas. Según los lineamientos del Decreto Único Reglamentario -DUR- 2420 de 2015, el grupo 1, posee las siguientes características:
 
