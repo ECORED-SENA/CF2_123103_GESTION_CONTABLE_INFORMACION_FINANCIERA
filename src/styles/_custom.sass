@@ -2,17 +2,20 @@
   &-1
     animation: float 1s ease-in-out infinite alternate
     position: absolute
-    top: 30%
+    width: 95px
+    top: 15%
     left: -20%
   &-2
     animation: floatZoom 5s ease-in-out infinite alternate
     position: absolute
-    top: 25%
-    right: 7%
+    width: 95px
+    top: 60%
+    right: 15%
   &-3
     animation: floatRotate 5s ease-in-out infinite alternate
     position: absolute
-    top: 65%
+    width: 95px
+    top: 50%
     left: -10%
 
 @keyframes float
@@ -45,13 +48,36 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 330px !important  
+  width: 330px !important 
+  top: 40px
+  @media screen and (max-width: 1200px)
+    width: 370px !important
+  @media screen and (min-width: 1400px)
+    width: 360px !important
+    top: 48px
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: black !important
 
 .banner-interno__titulo__icono i
-  color: $color-sistema-texto 
+  color: white
+
+.banner-principal__row
+  padding: 0rem 0rem 0rem 1rem
+
+.banner-principal__descripcion
+  padding: 0rem 4rem 0rem 0rem
+  @media screen and (max-width: 768px)
+    padding: 0rem !important
+  @media screen and (min-width: 1400px)
+    padding: 0rem !important
+  
+.banner-principal__info
+  padding: 0rem 4rem 0rem 0rem
+  @media screen and (max-width: 576px)
+    padding: 9rem 2.4rem 9rem 1.5rem !important
+  @media screen and (min-width: 1400px)
+    padding: 0rem !important
 
 figcaption
   font-weight: normal
@@ -219,7 +245,7 @@ figcaption
 
 /// INTRO
 .bloque-texto-g__img
-  background-color: #F6F6F6
+  background-color: #E4F2F3
   padding: 1rem
   padding-left: 5rem
   @media screen and (max-width: 390px)
@@ -395,7 +421,7 @@ figcaption
 
 .caja-nota-bloque2
   width: 80%
-  background-color: #F6F6F6
+  background-color: #FEF4E8
   padding: 2rem 3rem
   border-radius: 10px
   @media screen and (max-width: 1024px)
@@ -513,7 +539,7 @@ figcaption
 
 /// BLOQUE 1
 .caja-text-bloque1
-  background-color: #E4EAEE
+  background-color: #DEE4F0
   padding: 1rem 3rem
   @media screen and (min-width: 1400px)
     padding: 2rem 3rem
